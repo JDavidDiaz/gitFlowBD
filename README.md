@@ -1,2 +1,2 @@
 # gitFlowBD
-git flow basics
+git flow-basics
